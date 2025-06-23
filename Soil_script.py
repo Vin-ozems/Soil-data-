@@ -3,7 +3,7 @@ import pandas as pd
 import csv
 
 api_endpoint = "http://api.agromonitoring.com/agro/1.0/polygons"
-API_KEY = "c1237d299ac28906f12626e915c02a3a"
+API_KEY = **********************
 
 params = {
     "appid": API_KEY,
